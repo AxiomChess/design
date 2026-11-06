@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/brand/banner.svg" alt="AxiomChess" width="880" />
+  <img src="./assets/brand/banner.svg" alt="AxiomChess" width="920" />
 </p>
 
 # design
@@ -17,7 +17,7 @@ Ink and Felt: precise, analytical, quiet confidence. Cool chalk and ink surfaces
 | `tokens/tokens.json` | Machine-readable source of truth |
 | `tokens/tokens.css` | CSS variables for light/dark consumption |
 | `tokens/tokens.schema.json` | Shape notes for validators |
-| `assets/brand/` | Banner and mark SVGs for READMEs / org profile |
+| `assets/brand/` | Logo, wordmark, banner, mark SVGs |
 | `docs/board-theme.md` | Board squares, states, pieces, a11y |
 | `docs/anti-slop-checklist.md` | Banned patterns matching PROJECT_SPEC.md |
 | `scripts/validate-tokens.mjs` | Offline acceptance checks |

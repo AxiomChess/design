@@ -2,11 +2,16 @@
 
 Language: English only. No emoji.
 
-Original AxiomChess marks for org profile, docs, and repository READMEs.
+Original AxiomChess marks (Ink and Felt). MIT.
 
 | File | Use |
 | --- | --- |
-| `banner.svg` | Wide header (org homepage, README tops) |
-| `mark.svg` | Square mark / favicon-adjacent |
+| `logo.svg` | Square logo / avatar / favicon source |
+| `wordmark.svg` | Horizontal logo + name |
+| `banner.svg` | Wide README / org homepage header |
+| `mark.svg` | Compact grid mark |
 
-Direction: Ink and Felt (`#121816` ink field, `#3db892` felt accent, board grid). MIT. No emoji. No third-party logos.
+Canonical raw URLs (after push):
+
+- `https://raw.githubusercontent.com/AxiomChess/design/main/assets/brand/banner.svg`
+- `https://raw.githubusercontent.com/AxiomChess/design/main/assets/brand/logo.svg`

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="72" viewBox="0 0 420 72" role="img" aria-label="AxiomChess">
+  <title>AxiomChess</title>
+  <rect x="0" y="8" width="56" height="56" rx="10" fill="#121816"/>
+  <circle cx="28" cy="36" r="14" fill="none" stroke="#3db892" stroke-width="3.5"/>
+  <path d="M28 26v20M21 33h14" stroke="#3db892" stroke-width="3.5" stroke-linecap="square"/>
+  <text x="72" y="48" fill="#1a2421" font-family="Syne, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="36" font-weight="700" letter-spacing="-1.2">AxiomChess</text>
+</svg>
