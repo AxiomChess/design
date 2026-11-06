@@ -6,6 +6,8 @@ Matches `PROJECT_SPEC.md` section 11 (Explicit bans). Use before shipping any ma
 
 Check a row only when verified on the target surface (landing, analyze, report).
 
+Landing + report verification recorded in `docs/visual-qa-v1.md` (2026-11-06): all applicable B/R items PASS.
+
 ## Banned patterns (must FAIL the ship if present)
 
 | ID | Ban | Spec alignment |
