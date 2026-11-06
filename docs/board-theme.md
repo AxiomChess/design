@@ -43,7 +43,7 @@ Rules:
 - Style target: flat fills with optional 1px outline at 1.5 stroke weight matching the icon set; no drop-shadow glow stacks; no 3D bevel kits.
 - White pieces: light fill near `--ax-surface` with ink outline.
 - Black pieces: dark fill near `--ax-ink` (light theme) / darker surface (dark theme) with contrasting outline.
-- Until assets land, implementers may use a temporary geometric placeholder set that follows these contrast rules; placeholders must not ship in production UI (see anti-slop checklist).
+- Production UI ships the first-party geometric set in `web/components/chess-piece.tsx` (MIT; recorded in `web/NOTICE`). Flat fills with a light outline stroke; no drop-shadow glow stacks.
 
 ## Motion on the board
 

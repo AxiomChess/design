@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="./assets/brand/banner.svg" alt="AxiomChess" width="880" />
+</p>
+
 # design
 
-Design tokens (light/dark), board themes, motion notes, and anti-slop checklist for AxiomChess.
+Design tokens (light/dark), board themes, motion notes, brand assets, and anti-slop checklist for AxiomChess.
 
 ## Direction
 
@@ -13,6 +17,7 @@ Ink and Felt: precise, analytical, quiet confidence. Cool chalk and ink surfaces
 | `tokens/tokens.json` | Machine-readable source of truth |
 | `tokens/tokens.css` | CSS variables for light/dark consumption |
 | `tokens/tokens.schema.json` | Shape notes for validators |
+| `assets/brand/` | Banner and mark SVGs for READMEs / org profile |
 | `docs/board-theme.md` | Board squares, states, pieces, a11y |
 | `docs/anti-slop-checklist.md` | Banned patterns matching PROJECT_SPEC.md |
 | `scripts/validate-tokens.mjs` | Offline acceptance checks |
@@ -40,4 +45,4 @@ Import `tokens/tokens.css` (or copy variables) and set `data-theme="light"` / `d
 
 ## License
 
-MIT. See `LICENSE`. Piece SVG packs added later must record SPDX and upstream notices separately.
+MIT. See `LICENSE`.
