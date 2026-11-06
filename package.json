@@ -1,6 +1,6 @@
 {
   "name": "@axiomchess/design",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "description": "AxiomChess design tokens, board theme, and anti-slop checklist",
   "license": "MIT",
